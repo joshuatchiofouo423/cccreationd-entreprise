@@ -45,7 +45,7 @@
 
                           
 
-                            <li>
+                            <!-- <li>
                                 <a href="javascript: void(0);">
                                     <i class="mdi mdi-pill"></i>
                                     <span> Pharmacy </span>
@@ -82,7 +82,7 @@
                                         <a href="his_doc_manage_presc.php">Manage Prescriptions</a>
                                     </li>
                                 </ul>
-                            </li>
+                            </li> -->
 
                             
                             <li>
